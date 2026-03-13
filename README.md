@@ -11,7 +11,7 @@ Authentication is implemented using OAuth2 with Microsoft Sign-In (MSAL library)
 
 The application is deployed on Azure App Service.
 
-Example URL:
+URL:
 
 https://cmsapp123-h2dmfmhvg3dha6c5.westeurope-01.azurewebsites.net
 
