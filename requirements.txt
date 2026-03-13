@@ -7,7 +7,7 @@ WTForms==3.0.1
 requests==2.31.0
 pyodbc==4.0.39
 SQLAlchemy==2.0.23
-azure-storage-blob==12.19.0
+azure-storage-blob==2.1.0
 msal==1.25.0
 cryptography==41.0.7
 Werkzeug==2.2.3
