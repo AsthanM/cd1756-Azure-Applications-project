@@ -10,3 +10,4 @@ SQLAlchemy==2.0.23
 azure-storage-blob==12.19.0
 msal==1.25.0
 cryptography==41.0.7
+Werkzeug==2.2.3
